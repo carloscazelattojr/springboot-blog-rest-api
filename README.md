@@ -6,7 +6,7 @@ Project Blog App.
 
 ## Tecnologies
 
-`Java` `Spring` `Lombok` `MySql` `Security` `ModelMapper`   
+`Java` `Spring` `Lombok` `MySql` `Security` `ModelMapper` `AWS` `ElasticBeanstalk`    
 
 
 ## Project Architecture
