@@ -19,7 +19,7 @@ Project Blog App.
 
 
 <h1 align="center">
-    <img alt="blog" title="#blog" src="https://github.com/carlosjunior1983/springboot-blog-rest-api/blob/main/img/swagger.PNG"  /><br>
+    <img alt="blog" title="#blog" src="https://github.com/carlosjunior1983/springboot-blog-rest-api/blob/main/img/swagger-ex.PNG"  /><br>
 </h1>
 
 
