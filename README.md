@@ -18,6 +18,12 @@ Project Blog App.
 
 
 
+<h1 align="center">
+    <img alt="blog" title="#blog" src="https://github.com/carlosjunior1983/springboot-blog-rest-api/blob/main/img/swagger.PNG"  /><br>
+</h1>
+
+
+
 
 <br>
 Credits: Ramesh/Udemy
